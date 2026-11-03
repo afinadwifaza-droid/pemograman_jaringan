@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mahasiswa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NIM>2024001</NIM>
+  <Nama>Rans</Nama>
+  <Jurusan>Teknologi Informasi</Jurusan>
+  <MataKuliah>
+    <string>Pemrograman Jaringan</string>
+    <string>Basis Data</string>
+    <string>Algoritma</string>
+  </MataKuliah>
+</Mahasiswa>

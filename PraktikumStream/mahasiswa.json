@@ -1,0 +1,10 @@
+{
+  "NIM": 2024001,
+  "Nama": "Rans",
+  "Jurusan": "Teknologi Informasi",
+  "MataKuliah": [
+    "Pemrograman Jaringan",
+    "Basis Data",
+    "Algoritma"
+  ]
+}
