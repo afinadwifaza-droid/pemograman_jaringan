@@ -1,0 +1,6 @@
+Di dalam memori komputer (RAM), saat membuat aplikasi dengan bahasa pemrograman seperti Java, Python, atau JavaScript,
+kita sering menggunakan objek yang kompleks (misalnya objek User yang berisi nama, foto, dan daftar riwayat belanja).
+
+Namun, jaringan komputer tidak mengenali struktur objek tersebut. Kabel jaringan, router, dan protokol komunikasi hanya
+mengerti sinyal digital (0 dan 1). Oleh karena itu, objek tersebut harus dibongkar atau diubah terlebih dahulu menjadi
+deretan bita (bytes) yang linear (lurus/berurutan). Proses mengubah objek menjadi bita ini disebut Serialisasi (Serialization).
